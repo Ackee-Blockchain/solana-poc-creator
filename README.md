@@ -1,18 +1,6 @@
 # Solana PoC Template gnerator
 
 
-Create typescript template for PoC testing
+Vibe coded python tool to generate test templates for Solana audits
 
-
-## Usage
-
-```bash
-python3 <IDL_PATH> <OUTPUT_DIR>
-```
-
-
-## Example
-
-```bash
-python3 ./idl/example.json audit-tests
-```
+The package is not released yet, but you can install it from this repository.
